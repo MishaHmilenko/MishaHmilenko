@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/misha-hmilenko-65b373320">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[telegram-url](https://t.me/khm_misha)">
+  <a href="https://t.me/khm_misha">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
